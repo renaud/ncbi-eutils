@@ -1,0 +1,1 @@
+maven version of ncbi eutils project from [ftp://ftp.ncbi.nlm.nih.gov/pub/eutils/soap/v2.0/java/current/](ftp://ftp.ncbi.nlm.nih.gov/pub/eutils/soap/v2.0/java/current/)
